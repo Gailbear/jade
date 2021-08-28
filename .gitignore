@@ -3,3 +3,4 @@ libraries/*@*
 *.pyc
 *~
 
+node_modules/
